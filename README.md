@@ -1,2 +1,7 @@
-# demo-estudio-juridico-del-plata
-Demo web para ESTUDIO JURIDICO DEL PLATA — diseñada por eterlab.
+# ESTUDIO JURIDICO DEL PLATA
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
